@@ -1,6 +1,6 @@
 # Godwin K. Dzidotor, PhD  
-### 🛡️ TS/SCI-Eligible Security & Cloud Infrastructure Engineer  
-Network Security | Cloud Security | AWS | Terraform | Ansible | DevSecOps | RMF | Python Automation
+### 🛡️ Top Secret | SCI-Eligible Security & Cloud Infrastructure Engineer  
+DevOps | DevSecOps | Kubernetes | Cloud Security | AWS | Terraform | Ansible | Python Automation
 
 ---
 
