@@ -54,7 +54,8 @@ Python scripts for:
 ### 🔹 DevSecOps CI/CD Pipeline (GitHub Actions)  
 CI/CD workflow including:  
 - Terraform validate/plan  
-- Security scanning  
+- Security scanning
+- Kubernetes - Argo CD
 - Docker image build  
 - Unit testing  
 
